@@ -19,7 +19,7 @@
 
 /*** defines ***/
 
-#define KILO_VERSION "0.0.1"
+#define VERSION "0.0.1"
 
 #define CTRL_KEY(k) ((k) & 0x1f)  // sets the upper 3 bits to 0, Crtl key strips bits 5
 				  // and 6 from the pressed key, and sends that
